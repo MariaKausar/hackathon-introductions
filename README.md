@@ -1,6 +1,6 @@
 # 🚀 Women in Tech Hackathon — Version Control Practice
 
-Welcome! This exercise will walk you through the basics of **Git and version control** by adding your own file to this shared repository. By the end, you'll have cloned a repo, created a file, and pushed your first commit. Let's go! 💪
+Welcome! This exercise will walk you through the basics of **Git and version control** by adding your own file to this shared repository. By the end, you'll have cloned a repo, created a file, and pushed your first commit. 
 
 ---
 
@@ -24,7 +24,7 @@ git clone https://github.com/fuzzylabs/hackathon-introductions.git
 Then move into the project folder:
 
 ```bash
-cd <repo-name>
+cd hackathon-introductions
 ```
 
 > **Don't have Git installed?** Download it at [git-scm.com](https://git-scm.com) and follow the setup guide for your OS.
