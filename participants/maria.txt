@@ -1,0 +1,28 @@
+About Me
+
+Name: Maria
+
+MSc Artificial Intelligence Graduate
+
+
+## Reflections
+
+1. What does being part of a women's tech community mean to you?
+
+Being part of a women's tech community means a great deal to me. As a woman in AI, I believe it is important for us to have strong spaces where we can grow, support each other, and prove that women are powerful contributors to the tech field. This community inspires me to show up confidently and make a real impact.
+
+2. What is it about AI agents that interests you, and what do you hope to learn?
+
+As an AI Engineer, I have always been fascinated by how AI agents can think, decide, and act autonomously. I hope to deepen my understanding of how agents are designed and deployed in real-world scenarios, and gain hands-on experience building intelligent systems that can make a difference.
+
+3. If you could build an AI agent to solve any problem, what would it do and why?
+
+I would build an AI agent that helps women in developing countries access career guidance and tech education. Many talented women lack mentorship and resources — an intelligent agent could bridge that gap and open doors that would otherwise remain closed for them.
+
+4. What's one skill you're bringing to the hackathon, and one you're hoping to pick up?
+
+I am bringing my knowledge of Artificial Intelligence and machine learning to the team. I am hoping to pick up practical skills in building and deploying AI agents, which is an exciting area I want to explore further and grow in professionally.
+
+5. What would a successful hackathon look like for you personally?
+
+Success for me would mean walking away with new knowledge, meaningful connections with like-minded women in tech, and a project I am proud of. Most importantly, I want to grow in confidence as an AI Engineer and leave feeling inspired to keep building and contributing to the tech world.
